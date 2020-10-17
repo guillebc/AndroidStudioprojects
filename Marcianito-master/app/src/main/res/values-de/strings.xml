@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marcianito</string>
+    <string name="texto_pricipal">Willkommen</string>
+    <string name="texto_boton">Eingeben</string>
+
+</resources>
